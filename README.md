@@ -1,5 +1,4 @@
-u
-aturrere
+
 <!-- FULL HACKER MODE HEADER -->
 <p align="center">
   <img src="https://i.ibb.co/3vkHy6Q/matrix-rain-header.gif" width="100%" />
@@ -87,4 +86,4 @@ $ status: ONLINE
 
 <p align="center">
   <img src="https://i.ibb.co/FBJzRTH/hacker-header.gif" width="100%" />
-</p>
+</pp
