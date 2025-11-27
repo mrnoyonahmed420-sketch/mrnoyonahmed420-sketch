@@ -1,69 +1,78 @@
-<!-- Hacker Header -->
+u
+aturrere
+<!-- FULL HACKER MODE HEADER -->
 <p align="center">
-  <img src="https://i.ibb.co/FBJzRTH/hacker-header.gif" width="100%" />
+  <img src="https://i.ibb.co/3vkHy6Q/matrix-rain-header.gif" width="100%" />
 </p>
 
-<h1 align="center">⚡ NOYON AHMED ⚡</h1>
-<h3 align="center">MASTER HACKER • CYBER SECURITY • PYTHON DEVELOPER • TERMINAL LORD</h3>
+<h1 align="center">⚡ MASTER NOYON ⚡</h1>
+<h3 align="center">CYBER SECURITY • ETHICAL HACKER • PYTHON DEV • TERMINAL EXPERT</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacker;Penetration+Tester;Python+Script+Developer;Termux+Expert;Bug+Hunter;Cyber+Security+Researcher;Master+Hacker+Level+99%2B">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=0AFF00&center=true&vCenter=true&width=600&lines=Master+Hacker+Level+99%2B;Penetration+Tester;Python+Automation+Developer;Termux+%2F+Linux+Warrior;Cyber+Security+Researcher;Exploit+Creator;OSINT+Expert">
+</p>
+
+---
+
+## 💀 Hacker Identity
+<p align="center">
+  <img src="https://i.ibb.co/PFmgBbt/Hacker-Skull-Matrix.gif" width="260px">
 </p>
 
 ---
 
 ## 🧠 About Me
-- 🕶 5+ Years Experience in Hacking  
-- 🛡 Penetration Tester (WEB + NETWORK)  
-- 🐍 Python Automation Script Expert  
-- 💀 Kali Linux • Termux Power User  
-- ⚙ Creating Hacking Tools & Frameworks  
-- 🌐 OSINT, Password Attacks, Reconnaissance  
+- 💚 Real Ethical Hacker  
+- 🛡 Penetration Testing (Web + Network)  
+- 🐍 Python Script & Automation Developer  
+- 📱 Termux + Linux Power User  
+- 🕶 OSINT / Recon / Password Attack Expert  
+- ⚡ Builds Hacking Tools & Frameworks  
 
 ---
 
-## 💻 Skills & Technologies
+## 💻 Hacker Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,js,html,css,androidstudio,sqlite,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,github,js,html,css,androidstudio,vscode,sqlite&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Dark Hacker Mode)
+## 📊 GitHub Stats (Hacker Mode)
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrnoyonahmed420-sketch&show_icons=true&theme=chartreuse-dark" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mrnoyonahmed420-sketch&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=mrnoyonahmed420-sketch&theme=chartreuse-dark" />
 </p>
 
 ---
 
-## 🔥 Most Used Languages
+## ⚙️ Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnoyonahmed420-sketch&layout=compact&theme=merko" />
 </p>
 
 ---
 
-## 🕶 Hacker Quote
-<p align="center">
-  <img src="https://i.ibb.co/sHkYFFX/matrix-quote.gif" width="90%" />
-</p>
-
----
-
-## 🧩 Terminal Signature
+## 🕶 Terminal Identity
 ```bash
 $ whoami
 >> NOYON (MASTER HACKER)
 
-$ sudo access_granted --root
-✔ Success
+$ access_granted --root
+✔ DONE
 
-$ initializing_cyber_matrix ...
-███████ 99%
+$ booting_matrix...
+██████████ 100%
 
-$ system override --level MAX
+$ status: ONLINE
 ```
+
+---
+
+## 🔥 Premium Banner (Use For Style)
+<p align="center">
+  <img src="https://i.ibb.co/ZGNkGqv/Noyon-Hacker-Banner.gif" width="100%" />
+</p>
 
 ---
 
@@ -77,5 +86,5 @@ $ system override --level MAX
 ---
 
 <p align="center">
-  <img src="https://i.ibb.co/Z1bDHF0/hacker-footer.gif" width="100%" />
+  <img src="https://i.ibb.co/FBJzRTH/hacker-header.gif" width="100%" />
 </p>
